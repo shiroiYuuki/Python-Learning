@@ -1,3 +1,5 @@
+# package adalah folder yang berisi kumpulan module(file)
+
 import sains.matematika # cara memanggil modul pertama
 from sains import fisika # cara memanggil modul kedua
 from sains.fisika import gaya as force # hanya mengambil function gaya, 

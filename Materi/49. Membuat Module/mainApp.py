@@ -1,6 +1,7 @@
 # module matematika dengan import
 
 import matematika # cara importnya
+# module adalah file yang berisi fungsi
 
 hasil_tambah = matematika.tambah(1,2,3,4,5) # cara panggil functionya
 print(f"hasil tambah = {hasil_tambah}")
